@@ -9,7 +9,7 @@
 
 - [Java](Signature.java)
 - [C#](Signature.cs)
-- [GO](Signature.go)
+- [Go](Signature.go)
 
 
 关于企业授权开放接口，详见《[企业授权开放接口说明](https://www.showdoc.cc/mingdao?page_id=15519621)》

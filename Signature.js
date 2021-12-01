@@ -15,9 +15,7 @@ function getSignature(appKey, secretKey, timestamp) {
         "Timestamp": timestamp.toString()
     };
     var signstr = '';
-    var data = {};
     _(tempdata).keys().sort().each(function (key) {
-        data[key] = tempdata[key];
         signstr = signstr + '&' + key + '=' + tempdata[key];
     });
     signstr = signstr.substring(1);

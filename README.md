@@ -11,6 +11,7 @@
 - [C#](Signature.cs)
 - [Go](Signature.go)
 - [Python](Signature.py)
+- [PHP](Signature.php)
 - [Nodejs](Signature.js)
 
 

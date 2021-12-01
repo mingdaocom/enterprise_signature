@@ -7,7 +7,7 @@ import java.util.TreeMap;
 public class Signature {
 
     /**
-     * 获得签名
+     * 获取签名
      *
      * @param appKey    AppKey
      * @param secretKey SecretKey

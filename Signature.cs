@@ -9,7 +9,7 @@ namespace MD.Utilituy
     public class Signature
     {
         /// <summary>
-        /// 获得签名
+        /// 获取签名
         /// </summary>
         /// <param name="appKey">AppKey</param>
         /// <param name="secretKey">SecretKey</param>

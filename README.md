@@ -10,6 +10,8 @@
 - [Java](Signature.java)
 - [C#](Signature.cs)
 - [Go](Signature.go)
+- [Python](Signature.py)
+- [Nodejs](Signature.js)
 
 
 关于企业授权开放接口，详见《[企业授权开放接口说明](https://www.showdoc.cc/mingdao?page_id=15519621)》
